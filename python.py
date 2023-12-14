@@ -88,7 +88,7 @@ display()
 
 
 
-
+# pip install mysql-connector-python 
 
 
 cursor.close()
